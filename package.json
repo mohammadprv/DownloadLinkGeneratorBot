@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon node index.js"
   },
   "repository": {
-    "start": "nodemon node index.js",
     "type": "git",
     "url": "git+https://github.com/mohammadprv/DownloadLinkGeneratorBot.git"
   },
